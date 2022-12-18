@@ -11,9 +11,7 @@ Empezamos con la creación y activación de un entorno virtual (venv)
 
 Usamos los comandos de creación "python3 -m venv env" env siendo el nombre de nuestro espacio.
 En el caso de Windows he tenido que usar un comando diferente para activar el entorno; "env/Scripts/activate", 
-que previamente a esta práctica he tenido que activar los scripts, los he conseguido activar gracias a esta pagina.
-
-![link](https://www.cdmon.com/es/blog/la-ejecucion-de-scripts-esta-deshabilitada-en-este-sistema-te-contamos-como-actuar)
+que previamente a esta práctica he tenido que activar los scripts, los he conseguido activar gracias a ![esta pagina.](https://www.cdmon.com/es/blog/la-ejecucion-de-scripts-esta-deshabilitada-en-este-sistema-te-contamos-como-actuar)
 
 A continuación instalamos Flask y SQAlchemy en nuestro entorno virtual.
 
